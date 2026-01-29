@@ -3,6 +3,9 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="SpringmicroSMTPLibrary/SpringmicroSTMPLibrary.vcxproj" Id="e76cd81a-301f-432c-96b1-084b0a548112" />
   <Project Path="SpringSmtpCli/SpringSmtpCli.vcxproj" Id="54861e73-1406-41e4-8c59-408a6b72097e" />
 </Solution>
